@@ -1,0 +1,6 @@
+id=Ylzq-Clean-Tool
+name=Ylzq-定时自动清理工具
+version=v3.8
+versionCode=380
+author=叶落知秋
+description=自定义定时清理 | 配置总开关控制启停 | 保护黑名单拦截危险路径\n自定义清理配置路径/data/media/0/Android/Ylzq-module.conf
